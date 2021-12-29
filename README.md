@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FMotalleb
+- 👋 Hi, I’m Motalleb Fallahnezhad
 - 👀 I’m interested in ASSEMBLY, AVR, NodeJS(Nest), Kotlin, Type Script, C#(.Net Core), Dart(Flutter), Lua and ...
 - 🌱 I’m currently learning every thing
-- 📫 How to reach me with @FMotalleb ID (Telegram, Twitter)
+- 📫 @FMotalleb ID (Telegram, Twitter)
+- 📫 Motalleb@gmail.com
