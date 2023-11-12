@@ -25,6 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
+          plugin_languages_ignored: ['c++','python','cmake','html']
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
           user: FMotalleb
