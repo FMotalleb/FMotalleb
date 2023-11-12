@@ -1,7 +1,6 @@
 
-- 👋 Hi, I’m Motalleb Fallahnezhad
-- 👀 I’m interested in Dart(Flutter), ASSEMBLY, Go, Rust, Type Script, Lua and ...
+![image](images/user-metrics.svg)
+
+![image](images/most-used-languages.svg)
 - 📫 @FMotalleb ID (Telegram, Twitter)
 - 📫 FMotalleb@gmail.com
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fmotalleb&theme=onedark&title=Commits,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
